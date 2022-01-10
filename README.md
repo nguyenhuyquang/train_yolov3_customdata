@@ -1,1 +1,23 @@
-# train_yolov3_customdata
+Train dữ liệu với tập dữ liệu thu thập được
+
+Bước 1: git clone https://github.com/nguyenhuyquang/train_yolov3_customdata.git
+
+Vào folder train_yolov3_customdata
+
+----------------------------------------------------------------
+Do github không cho phép upload file trên 100Mb nên chúng em để file tại google drive:
+https://drive.google.com/file/d/1ahtzbxBjQqh4ZDAieJ4TILj5k_rgIggH/view?usp=sharing
+Tạo folder custom_weight trong folder train_yolov3_customdata
+Sau khi tải file về đưa file vào thư mục custom_weight
+----------------------------------------------------------------
+
+Bước 2: Upload folder lên google drive
+
+Bước 3: Đổi tên folder thành custom_data
+
+Bước 4: Chạy google Colab và load file train_yolo.ipynb vào google colab để chạy
+
+Bước 5: Chọn Runtime (Thời gian chạy) -> Chọn change runtime type (Thay đổi loại thời gian chạy)
+        Sửa Hardware accelerator (Trình tăng tốc phần cứng) thành GPU
+
+Bước 6: Run all (Ctrl + F9) (Cấp quyền để có thể đọc và ghi dữ liệu trên drive)
