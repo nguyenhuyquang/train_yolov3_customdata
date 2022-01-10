@@ -22,3 +22,5 @@ Bước 5: Chọn Runtime (Thời gian chạy) -> Chọn change runtime type (Th
         Sửa Hardware accelerator (Trình tăng tốc phần cứng) thành GPU
 
 Bước 6: Run all (Ctrl + F9) (Cấp quyền để có thể đọc và ghi dữ liệu trên drive)
+
+Sau khi kết thúc quá trình train (Khoảng 2h) ta thu được file yolov3_custom_final.weights
