@@ -9,6 +9,7 @@ Do github không cho phép upload file trên 100Mb nên chúng em để file t�
 https://drive.google.com/file/d/1ahtzbxBjQqh4ZDAieJ4TILj5k_rgIggH/view?usp=sharing
 Tạo folder custom_weight trong folder train_yolov3_customdata
 Sau khi tải file về đưa file vào thư mục custom_weight
+Tạo thêm folder backup
 ----------------------------------------------------------------
 
 Bước 2: Upload folder lên google drive
