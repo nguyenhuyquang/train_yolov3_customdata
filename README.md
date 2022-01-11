@@ -2,12 +2,12 @@ Train dữ liệu với tập dữ liệu thu thập được
 
 Bước 1: git clone https://github.com/nguyenhuyquang/train_yolov3_customdata.git
 
-Vào folder train_yolov3_customdata
-
+đổi tên train_yolov3_customdata folder thành yolo_train
+Vào folder yolo_train, 
 ----------------------------------------------------------------
 Do github không cho phép upload file trên 100Mb nên chúng em để file tại google drive:
 https://drive.google.com/file/d/1ahtzbxBjQqh4ZDAieJ4TILj5k_rgIggH/view?usp=sharing
-Tạo folder custom_weight trong folder train_yolov3_customdata
+Tạo folder custom_weight trong folder  yolo_train
 Sau khi tải file về đưa file vào thư mục custom_weight
 Tạo thêm folder backup
 ----------------------------------------------------------------
